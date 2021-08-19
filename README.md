@@ -2,8 +2,8 @@
 
 #### Setup
 ```
-cd https://github.com/muhammedsaidkaya/mongodb-setup
-cd mongodb-setup
+git clone https://github.com/muhammedsaidkaya/mongodb-setup && \
+cd mongodb-setup && \
 sh setup.sh
 ```
 #### Delete
