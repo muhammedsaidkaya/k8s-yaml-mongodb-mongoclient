@@ -8,11 +8,10 @@ declare -a StringArray=( \
 "mongodb-service.yaml" \
 "mongoclient-deployment.yaml" \
 "mongoclient-service.yaml" \
+"ingress.yaml" \
 )
 
 for value in ${StringArray[@]};
 do
     kubectl apply -f $value
 done
-
-echo "hi means merhaba in Turkish"
