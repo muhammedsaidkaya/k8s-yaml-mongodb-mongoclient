@@ -15,4 +15,4 @@ do
     kubectl apply -f $value
 done
 
-echo "hi"
+echo "hi means merhaba in Turkish"
