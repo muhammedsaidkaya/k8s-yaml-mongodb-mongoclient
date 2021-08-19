@@ -14,3 +14,5 @@ for value in ${StringArray[@]};
 do
     kubectl apply -f $value
 done
+
+echo "hi"
