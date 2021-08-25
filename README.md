@@ -1,4 +1,4 @@
-# mongodb-setup
+# mongodb-client-setup
 
 Scripts  create mongo express and MongoDB services and kubernetes dashboard that you can access in dashboard.com
 
